@@ -4,7 +4,7 @@
 *******************************************************************************/
 
 void setup(){
-  // Configura os pinos com os LEDs como saída
+
   pinMode(9, OUTPUT); // LED verde pedestres
   pinMode(10, OUTPUT); // LED vermelho pedestres
   pinMode(11, OUTPUT); // LED verde carros
